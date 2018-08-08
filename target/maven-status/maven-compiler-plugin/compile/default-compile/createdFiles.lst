@@ -1,6 +1,4 @@
-com/kodingkingdom/makehistory/HuntPlugin.class
-com/kodingkingdom/makehistory/Hunt.class
-com/kodingkingdom/hunt/Room.class
-com/kodingkingdom/hunt/Problem.class
-com/kodingkingdom/makehistory/Hunt$1.class
-com/kodingkingdom/hunt/ProblemData.class
+com/kodingkingdom/craftersync/CrafterSyncPlugin.class
+com/kodingkingdom/craftersync/CrafterSync.class
+com/kodingkingdom/craftersync/CrafterSync$2.class
+com/kodingkingdom/craftersync/CrafterSync$1.class

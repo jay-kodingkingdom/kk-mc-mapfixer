@@ -1,3 +1,6 @@
-name: MakeHistoryHunt
-main: com.kodingkingdom.makehistory.HuntPlugin
+name: CrafterSync
+main: com.kodingkingdom.craftersync.CrafterSyncPlugin
 version: 0.0.1
+depend: [CrafterCoordinator]
+commands:
+  csync:
